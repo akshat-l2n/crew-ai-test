@@ -88,7 +88,7 @@ class CustomAgents() :
         )
 
 
-agents = CustomerAgents()
+agents = CustomAgents()
 
 categorizer_agent = agents.Query_Categorizer_Agent()
 order_tracking_agent = agents.Order_tracking_agent()
