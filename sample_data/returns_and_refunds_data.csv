@@ -1,0 +1,6 @@
+Order ID,Product,Purchase Date,Return Eligibility,Return Reason,Return Instructions
+56789,Shoes,2024-05-01,Eligible,Size issue,Please use the return label provided to send the shoes back.
+98765,TV,2024-05-03,Eligible,Defective,Please use the return label provided to send the TV back.
+12345,Laptop,2024-05-05,Not Eligible,Changed mind,This item is not eligible for return as it exceeds the return window.
+67890,Phone,2024-05-07,Eligible,Not working,Please use the return label provided to send the phone back.
+54321,Headphones,2024-05-09,Not Eligible,Changed mind,This item is not eligible for return as it exceeds the return window.

@@ -1,0 +1,6 @@
+Order ID,Customer Name,Order Date,Status,Estimated Delivery Date
+56789,John Doe,2024-05-01,In Transit,2024-06-12
+98765,Jane Smith,2024-05-03,Delivered,2024-06-05
+12345,Alice Johnson,2024-05-05,Processing,2024-06-10
+67890,Bob Brown,2024-05-07,In Transit,2024-06-14
+54321,Carol White,2024-05-09,Delivered,2024-06-08
