@@ -1,0 +1,10 @@
+Dear Customer,
+
+Thank you for reaching out to us about your order. Unfortunately, we were unable to find any information about your order in our system. This is because the file that contains the necessary information is not available.
+
+If you could provide us with more details about your order, we will do our best to assist you. Please note that we are unable to provide return eligibility, return reason, or return instructions without access to the relevant information.
+
+Please contact our Sales Manager for further assistance.
+
+Best regards,
+Sales Manager

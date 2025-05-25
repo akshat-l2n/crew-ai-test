@@ -1,5 +1,6 @@
 groq
 crewai
-langchain_groq
+langchain-groq
 crewai.tools
 streamlit
+python-dotenv

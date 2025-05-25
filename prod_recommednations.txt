@@ -1,0 +1,6 @@
+Since the customer's query is not directly related to product recommendations, I will provide general product recommendations. Here are the top 3 product recommendations for the user:
+1. Product A: This product has been shipped to John doe in the past, so it might be a good option for them.
+2. Product C: This product has been delivered to John doe in the past, so it might be a good option for them.
+3. Product B: Although this product has been ordered by Jane doe, it might be a good option for John doe as well.
+
+Please note that these recommendations are based on the assumption that the customer is looking for products similar to what they have ordered in the past. If the customer has any specific preferences or requirements, please let me know and I can provide more tailored recommendations.
